@@ -1,9 +1,8 @@
-name: Generate Snake & Portfolio Images
+name: Generate Snake & Portfolio Cards
 
-# Run every day at midnight + manual trigger
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -11,30 +10,76 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1 — Checkout repository
       - name: Checkout Repo
         uses: actions/checkout@v3
 
+      # Step 2 — Generate snake contribution grid
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Setup Output Branch
+      # Step 3 — Prepare project cards
+      - name: Generate Portfolio Cards
+        run: |
+          mkdir -p dist/projects
+          echo "Generating HTML project cards..."
+          cat <<EOT > dist/projects/cards.html
+<table>
+<tr>
+<td width="50%">
+### 📚 Exam Organizer
+Manage exams and study schedules efficiently.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Exam-Organizer/main/screenshot.png" width="300"/>
+<br>
+🔗 [Repo Link](https://github.com/jana-hagras/Exam-Organizer)
+</td>
+
+<td width="50%">
+### 🍔 Yumscape Food Shop
+Online food ordering platform.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="300"/>
+<br>
+🔗 [Repo Link](https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop)
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+### 📊 Data Analysis Project
+Data visualization and analysis project.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Data-analysis-project/main/screenshot.png" width="300"/>
+<br>
+🔗 [Repo Link](https://github.com/jana-hagras/Data-analysis-project)
+</td>
+
+<td width="50%">
+### ✅ To-Do App
+Task management mobile application.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/todo-app/main/screenshot.png" width="300"/>
+<br>
+🔗 [Repo Link](https://github.com/jana-hagras/todo-app)
+</td>
+</tr>
+</table>
+EOT
+
+      # Step 4 — Commit & Push to output branch
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B output
-
-      - name: Move Snake Image
-        run: |
           mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/
-
-      - name: Commit & Push
-        run: |
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Update snake contribution grid [skip ci]" || echo "No changes to commit"
+          cp -r dist/* output/
+          git add output
+          git commit -m "Update snake & portfolio cards [skip ci]" || echo "No changes to commit"
           git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
