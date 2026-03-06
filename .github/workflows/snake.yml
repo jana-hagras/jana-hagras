@@ -1,5 +1,6 @@
 name: Generate Snake & Portfolio Cards
 
+# Run daily + manual trigger
 on:
   schedule:
     - cron: "0 0 * * *"  # daily at midnight
@@ -10,18 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1 — Checkout repository
+      # 1. Checkout repository
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # Step 2 — Generate snake contribution grid
+      # 2. Generate snake contribution grid
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Step 3 — Prepare project cards
+      # 3. Generate portfolio project cards (HTML snippet)
       - name: Generate Portfolio Cards
         run: |
           mkdir -p dist/projects
@@ -70,7 +71,7 @@ Task management mobile application.
 </table>
 EOT
 
-      # Step 4 — Commit & Push to output branch
+      # 4. Commit & push everything to output branch
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
