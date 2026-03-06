@@ -1,98 +1,84 @@
-<!-- ==================== Futuristic Neon Banner ==================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=200&section=header&text=Jana%20Hagras&fontSize=45&fontColor=ff00ff&animation=twinkling&fontAlignY=45&desc=Full+Stack+Developer+|+Web+|+Mobile&descSize=18&descAlign=50&descColor=ffffff"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Jana%20Hagras&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Mobile%20&%20Web&descSize=20&descAlign=55" width="100%" />
 
-<!-- ==================== Animated Typing Header ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&duration=4000&pause=1000&color=ff00ff&center=true&vCenter=true&width=850&lines=Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Flutter+Developer;Building+Real+World+Applications"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Engineering+Scalable+Web+Solutions;Crafting+Smooth+Mobile+Experiences;Turning+Data+into+Actionable+Insights;Building+Clean+Architecture" />
+</div>
 
----
+## 👩‍💻 About Me
+I am a **Full-Stack Developer** focused on building applications that don't just work, but feel effortless to use. From structuring robust databases to ensuring visually seamless UI transitions, I take pride in delivering end-to-end solutions. 
 
-# 👩‍💻 Jana Hagras
+<div align="center">
+  <h3>🛠️ Technical Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,dart,php,html,css,react,nodejs,flutter,dotnet,mysql,postgres,git,github" />
+</div>
 
-💻 **Full-Stack Enthusiast | Web Developer | Mobile Developer | Data Analyst**  
-🚀 Building web apps, mobile apps, and data-driven solutions.
-
----
-
-# 🧠 Programming Languages & Frameworks
-
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
-# 💻 Portfolio Projects
-
-<p align="center">
-<table>
-<tr>
-<td width="50%">
-### 📚 Exam Organizer
-Manage exams and study schedules efficiently.
 <br>
-<img src="https://raw.githubusercontent.com/jana-hagras/Exam-Organizer/main/screenshot.png" width="300"/>
-<br>
-🔗 [Repo Link](https://github.com/jana-hagras/Exam-Organizer)
-</td>
 
-<td width="50%">
-### 🍔 Yumscape Food Shop
-Online food ordering platform.
-<br>
-<img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="300"/>
-<br>
-🔗 [Live Demo](https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html)
-<br>
-🔗 [Repo Link](https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop)
-</td>
-</tr>
+## 💻 Featured Projects
 
-<tr>
-<td width="50%">
-### 📊 Data Analysis Project
-Data visualization and analysis project.
-<br>
-<img src="https://raw.githubusercontent.com/jana-hagras/Data-analysis-project/main/screenshot.png" width="300"/>
-<br>
-🔗 [Repo Link](https://github.com/jana-hagras/Data-analysis-project)
-</td>
-
-<td width="50%">
-### ✅ To-Do App
-Task management mobile application.
-<br>
-<img src="https://raw.githubusercontent.com/jana-hagras/todo-app/main/screenshot.png" width="300"/>
-<br>
-🔗 [Repo Link](https://github.com/jana-hagras/todo-app)
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 Exam Organizer</h3>
+      <p align="center">Manage exams and study schedules efficiently with a clean, user-friendly interface.</p>
+      <p align="center"><img src="https://raw.githubusercontent.com/jana-hagras/Exam-Organizer/main/screenshot.png" width="90%" alt="Exam Organizer Screenshot"/></p>
+      <p align="center">
+        <a href="https://github.com/jana-hagras/Exam-Organizer"><img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍔 Yumscape Food Shop</h3>
+      <p align="center">A fully responsive online food ordering platform with a modern UI.</p>
+      <p align="center"><img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="90%" alt="Yumscape Screenshot"/></p>
+      <p align="center">
+        <a href="https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html"><img src="https://img.shields.io/badge/Live%20Demo-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop"><img src="https://img.shields.io/badge/Source-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Data Analysis Project</h3>
+      <p align="center">Extracting insights and creating visual narratives from complex datasets.</p>
+      <p align="center"><img src="https://raw.githubusercontent.com/jana-hagras/Data-analysis-project/main/screenshot.png" width="90%" alt="Data Analysis Screenshot"/></p>
+      <p align="center">
+        <a href="https://github.com/jana-hagras/Data-analysis-project"><img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✅ To-Do Mobile App</h3>
+      <p align="center">A task management mobile application built for productivity and smooth user flow.</p>
+      <p align="center"><img src="https://raw.githubusercontent.com/jana-hagras/todo-app/main/screenshot.png" width="90%" alt="To-Do App Screenshot"/></p>
+      <p align="center">
+        <a href="https://github.com/jana-hagras/todo-app"><img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
+
+<br>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=transparent&title_color=8A2BE2&icon_color=FF00FF&text_color=777777&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=transparent&title_color=8A2BE2&icon_color=FF00FF&text_color=777777&hide_border=true" width="45%" />
+</div>
+
+<br>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/jana-hagras">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jana-hagras/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+  <br>
+  ⭐ <b>“Build. Learn. Improve. Repeat.”</b>
 </p>
-
----
-
-# 🌐 Connect With Me
-
-<a href="https://github.com/jana-hagras">
-  <img src="https://img.shields.io/badge/GitHub-Profile-ff00ff?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jana-hagras/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-ff00ff?style=for-the-badge&logo=linkedin"/>
-</a>
-
----
-
-⭐ **“Build. Learn. Improve. Repeat.”**
