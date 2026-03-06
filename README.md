@@ -1,7 +1,7 @@
-<!-- Animated Typing Header -->
+<!-- 3D CYBER HEADER -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+I'm+Jana+Hagras;Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Building+Real+World+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+I'm+Jana+Hagras;Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Building+Creative+Applications" />
 </p>
 
 ---
@@ -10,33 +10,33 @@
 
 💻 **Full-Stack Enthusiast | Web Developer | Mobile Developer | Data Analyst**
 
-🚀 Passionate about building modern mobile apps, scalable backends, and data-driven solutions.
+🚀 Passionate about building modern applications, scalable backend systems, and data-driven solutions.
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 Skills Visualization
 
-### 👩‍💻 Languages
+### Programming
 
-![Dart](https://img.shields.io/badge/Dart-00FF9C?style=for-the-badge\&logo=dart\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF9C?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=for-the-badge\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge\&logo=javascript\&logoColor=white)
 
-### 📱 Mobile Development
+### Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-00FF9C?style=for-the-badge\&logo=flutter\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-### 🌐 Backend
+### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-00FF9C?style=for-the-badge\&logo=node.js\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge\&logo=node.js\&logoColor=white)
 
-### 🗄 Database
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00FF9C?style=for-the-badge\&logo=mysql\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🛠 Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-00FF9C?style=for-the-badge\&logo=git\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VSCode-00FF9C?style=for-the-badge\&logo=visualstudiocode\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-8A2BE2?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
@@ -44,46 +44,52 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 💻 Portfolio Projects
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jana-hagras&theme=chartreuse-dark&border_radius=5"/>
-</p>
+### 📚 Exam Organizer
 
----
+A productivity app that helps students manage exams, schedules, and study plans.
 
-# 🚀 Featured Projects
-
-### 📱 Mobile Applications
-
-* 📱 Flutter Recipe Application
-* 🏥 Doctor Appointment App
-* 💰 Expense Tracker
-
-### 🌐 Web & Backend
-
-* 🔐 Authentication System (Node.js + MySQL)
-* 🌍 REST API Development
-
-### 📊 Data Analysis
-
-* 📊 Data Visualization Dashboards
-* 📈 Data Processing Projects
+🔗 https://github.com/jana-hagras/Exam-Organizer
 
 ---
 
-# 📈 GitHub Activity Graph
+### 🍔 Yumscape – Online Food & Beverage Shop
+
+A web platform for browsing menus and ordering food online.
+
+🔗 https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop
+
+---
+
+### 📊 Data Analysis Project
+
+Analyzing datasets and extracting insights using data visualization techniques.
+
+🔗 https://github.com/jana-hagras/Data-analysis-project
+
+---
+
+### ✅ To-Do App
+
+A mobile task management application for organizing daily work.
+
+🔗 https://github.com/jana-hagras/todo-app
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jana-hagras&theme=chartreuse-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jana-hagras&theme=tokyo-night"/>
 </p>
 
 ---
@@ -98,14 +104,10 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-
 <a href="https://github.com/jana-hagras">
-<img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 
 ---
 
-⭐ **“Code. Build. Improve. Repeat.”**
+⭐ **“Build. Learn. Improve. Repeat.”**
