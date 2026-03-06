@@ -1,5 +1,6 @@
-name: Generate Snake
+name: Generate Snake & Portfolio Images
 
+# Run every day at midnight + manual trigger
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -10,16 +11,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Setup Output Branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+
+      - name: Move Snake Image
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/
+
+      - name: Commit & Push
+        run: |
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake contribution grid [skip ci]" || echo "No changes to commit"
+          git push -u origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
