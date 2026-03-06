@@ -17,7 +17,7 @@ jobs:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
