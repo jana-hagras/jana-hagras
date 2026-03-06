@@ -1,28 +1,24 @@
 name: Generate Snake & Portfolio Cards
 
-# Trigger: daily + manual
 on:
+  workflow_dispatch:  # Manual run
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *" # daily at midnight UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 2. Generate Snake Contribution Graph
-      - name: Generate Snake
+      - name: Generate Snake Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
 
-      # 3. Generate Portfolio Project Cards HTML
       - name: Generate Portfolio Cards
         run: |
           mkdir -p dist/projects
@@ -72,14 +68,14 @@ Task management mobile application.
 </table>
 EOT
 
-      # 4. Commit & Push to output branch
-      - name: Commit & Push
+      - name: Commit & Push to output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -B output
-          mkdir -p output
-          cp -r dist/* output/
+          mkdir -p output/projects
+          cp -r dist/projects/* output/projects/
+          cp dist/github-contribution-grid-snake.svg output/
           git add output
           git commit -m "Update snake & portfolio cards [skip ci]" || echo "No changes to commit"
           git push -u origin output --force
