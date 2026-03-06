@@ -1,11 +1,11 @@
-<!-- ==================== 3D CYBER BANNER WITH NAME ==================== -->
+<!-- ==================== Clean Animated Banner ==================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Jana%20Hagras&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=120&section=header&text=Jana%20Hagras&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer+|+Web+|+Mobile&descSize=16&descAlign=50"/>
 </p>
 
-<!-- ==================== ANIMATED TYPING HEADER ==================== -->
+<!-- ==================== Animated Typing Header ==================== -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Flutter+Developer;Building+Real+World+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&duration=4000&pause=1000&color=ff00ff&center=true&vCenter=true&width=850&lines=Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Flutter+Developer;Building+Real+World+Applications"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 # 👩‍💻 Jana Hagras
 
 💻 **Full-Stack Enthusiast | Web Developer | Mobile Developer | Data Analyst**  
-🚀 Building **web apps, mobile apps, and data-driven solutions** with modern technologies.
+🚀 Building web apps, mobile apps, and data-driven solutions.
 
 ---
 
@@ -42,47 +42,14 @@
 
 ---
 
-# 📊 Developer Dashboard
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎮 Contribution Graph & Snake
-
-<p align="center">
-<img src="https://github.com/jana-hagras/jana-hagras/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jana-hagras&theme=react-dark"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jana-hagras&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-
 # 🌐 Connect With Me
 
 <a href="https://github.com/jana-hagras">
-<img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-ff00ff?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jana-hagras/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-8A2BE2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Profile-ff00ff?style=for-the-badge&logo=linkedin"/>
 </a>
 
 ---
