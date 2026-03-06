@@ -1,6 +1,6 @@
 <!-- ==================== Neon Electric Banner ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=200&section=header&text=Jana%20Hagras&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%F0%9F%92%BB+Flutter+Developer+|+Full-Stack+Enthusiast&descSize=18&descAlign=50&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=200&section=header&text=Jana%20Hagras&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%F0%9F%92%BB+Full-Stack+Enthusiast| +Web+|+Mobile|+Data+Analyst&descSize=18&descAlign=50&descColor=ffffff"/>
 </p>
 
 <!-- ==================== Glowing Typing Effect ==================== -->
@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,java,php,html,css,react,nodejs,flutter,dart,mysql,postgres,git,github" />
 </p>
 
-### 🟦 Programming & Development
+### 💻 Programming & Development
 <img src="https://img.shields.io/badge/Python-00ffff?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-0080ff?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-00ffff?style=for-the-badge&logo=javascript&logoColor=black" />
