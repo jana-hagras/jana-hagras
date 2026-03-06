@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # 1. Pulls your latest blog posts (works with Dev.to, Medium, Hashnode, etc.)
+      - name: Fetch Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/jana-hagras" # Replace with your RSS feed URL
+          max_post_count: 5
+
+      # 2. Pulls your most recent GitHub activity/projects
+      - name: Fetch Recent Projects
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Updated recent activity"
+          MAX_LINES: 5
