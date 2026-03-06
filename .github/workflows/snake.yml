@@ -1,9 +1,9 @@
 name: Generate Snake & Portfolio Cards
 
-# Run daily + manual trigger
+# Trigger: daily + manual
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight
+    - cron: "0 0 * * *"  # every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -11,22 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repository
+      # 1. Checkout the repository
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      # 2. Generate snake contribution grid
+      # 2. Generate Snake Contribution Graph
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: jana-hagras
           outputs: dist/github-contribution-grid-snake.svg
 
-      # 3. Generate portfolio project cards (HTML snippet)
+      # 3. Generate Portfolio Project Cards HTML
       - name: Generate Portfolio Cards
         run: |
           mkdir -p dist/projects
-          echo "Generating HTML project cards..."
           cat <<EOT > dist/projects/cards.html
 <table>
 <tr>
@@ -44,6 +43,8 @@ Manage exams and study schedules efficiently.
 Online food ordering platform.
 <br>
 <img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="300"/>
+<br>
+🔗 [Live Demo](https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html)
 <br>
 🔗 [Repo Link](https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop)
 </td>
@@ -71,7 +72,7 @@ Task management mobile application.
 </table>
 EOT
 
-      # 4. Commit & push everything to output branch
+      # 4. Commit & Push to output branch
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
