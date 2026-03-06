@@ -1,12 +1,12 @@
-<div align="center">
+<!-- ==================== Futuristic Neon Banner ==================== -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=200&section=header&text=Jana%20Hagras&fontSize=50&fontColor=ff00ff&animation=twinkling&fontAlignY=45&desc=Full+Stack+Developer+|+Web+|+Mobile&descSize=18&descAlign=50&descColor=ffffff"/>
+</p>
 
-<!-- ==================== Animated Neon Banner ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Jana%20Hagras&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descSize=20&descAlign=55" width="100%" />
-
-<!-- ==================== Typing Effect ==================== -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=22&duration=3000&pause=500&color=FF00FF&center=true&width=650&lines=Engineering+Scalable+Web+Solutions;Crafting+Smooth+Mobile+Experiences;Turning+Data+into+Actionable+Insights;Building+Clean+Architecture" />
-
-</div>
+<!-- ==================== Glowing Typing Header ==================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=4000&pause=500&color=FF00FF&center=true&width=700&lines=Engineering+Scalable+Web+Solutions;Crafting+Smooth+Mobile+Experiences;Turning+Data+into+Actionable+Insights;Building+Clean+Architecture"/>
+</p>
 
 ---
 
@@ -22,93 +22,82 @@ I specialize in end-to-end solutions from **backend architecture** to **sleek fr
 
 ---
 
-<div align="center">
-<h3>🛠️ Tech Arsenal</h3>
+## 🛠️ Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,dart,php,html,css,react,nodejs,flutter,dotnet,mysql,postgres,git,github" />
-</div>
+</p>
 
 ---
 
-## 💻 Featured Projects (Cyber 3D Cards)
+## 💻 Featured Projects
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;">
+<p align="center">
+<table>
+<tr>
+<td width="50%">
+### 📚 Exam Organizer
+Manage exams and study schedules efficiently with a modern interface.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Exam-Organizer/main/screenshot.png" width="100%" />
+<br>
+[Source Code](https://github.com/jana-hagras/Exam-Organizer)
+</td>
 
-<!-- Project 1 -->
-<div align="center" style="width:280px; border-radius:20px; overflow:hidden; box-shadow:0 10px 40px rgba(255,0,255,0.4); transition: transform 0.3s;">
-  <a href="https://github.com/jana-hagras/Exam-Organizer" target="_blank">
-    <img src="https://raw.githubusercontent.com/jana-hagras/Exam-Organizer/main/screenshot.png" width="100%" />
-  </a>
-  <h3 style="color:#FF00FF; margin:10px 0; text-shadow: 0 0 8px #FF00FF, 0 0 20px #8A2BE2;">📚 Exam Organizer</h3>
-  <p style="color:#ccc; font-size:14px;">Manage exams and study schedules efficiently with a futuristic UI.</p>
-  <a href="https://github.com/jana-hagras/Exam-Organizer">
-    <img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<td width="50%">
+### 🍔 Yumscape Food Shop
+Online food ordering platform, fully responsive and modern UI.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="100%" />
+<br>
+[Live Demo](https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html) | [Source Code](https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop)
+</td>
+</tr>
 
-<!-- Project 2 -->
-<div align="center" style="width:280px; border-radius:20px; overflow:hidden; box-shadow:0 10px 40px rgba(138,43,226,0.4); transition: transform 0.3s;">
-  <a href="https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop/main/screenshot.png" width="100%" />
-  </a>
-  <h3 style="color:#8A2BE2; margin:10px 0; text-shadow: 0 0 8px #8A2BE2, 0 0 20px #FF00FF;">🍔 Yumscape Food Shop</h3>
-  <p style="color:#ccc; font-size:14px;">A fully responsive online food ordering platform with modern UI.</p>
-  <a href="https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop">
-    <img src="https://img.shields.io/badge/Source-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<tr>
+<td width="50%">
+### 📊 Data Analysis Project
+Extract insights and create visual narratives from complex datasets.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/Data-analysis-project/main/screenshot.png" width="100%" />
+<br>
+[Source Code](https://github.com/jana-hagras/Data-analysis-project)
+</td>
 
-<!-- Project 3 -->
-<div align="center" style="width:280px; border-radius:20px; overflow:hidden; box-shadow:0 10px 40px rgba(255,0,255,0.4); transition: transform 0.3s;">
-  <a href="https://github.com/jana-hagras/Data-analysis-project" target="_blank">
-    <img src="https://raw.githubusercontent.com/jana-hagras/Data-analysis-project/main/screenshot.png" width="100%" />
-  </a>
-  <h3 style="color:#FF00FF; margin:10px 0; text-shadow: 0 0 8px #FF00FF, 0 0 20px #8A2BE2;">📊 Data Analysis Project</h3>
-  <p style="color:#ccc; font-size:14px;">Extracting insights and creating visual narratives from complex datasets.</p>
-  <a href="https://github.com/jana-hagras/Data-analysis-project">
-    <img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<!-- Project 4 -->
-<div align="center" style="width:280px; border-radius:20px; overflow:hidden; box-shadow:0 10px 40px rgba(138,43,226,0.4); transition: transform 0.3s;">
-  <a href="https://github.com/jana-hagras/todo-app" target="_blank">
-    <img src="https://raw.githubusercontent.com/jana-hagras/todo-app/main/screenshot.png" width="100%" />
-  </a>
-  <h3 style="color:#8A2BE2; margin:10px 0; text-shadow: 0 0 8px #8A2BE2, 0 0 20px #FF00FF;">✅ To-Do Mobile App</h3>
-  <p style="color:#ccc; font-size:14px;">A task management mobile app built for smooth user flow and productivity.</p>
-  <a href="https://github.com/jana-hagras/todo-app">
-    <img src="https://img.shields.io/badge/Source%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-</div>
+<td width="50%">
+### ✅ To-Do Mobile App
+Task management mobile app built for smooth user flow and productivity.
+<br>
+<img src="https://raw.githubusercontent.com/jana-hagras/todo-app/main/screenshot.png" width="100%" />
+<br>
+[Source Code](https://github.com/jana-hagras/todo-app)
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=transparent&title_color=8A2BE2&icon_color=FF00FF&text_color=777777&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=transparent&title_color=8A2BE2&icon_color=FF00FF&text_color=777777&hide_border=true" width="45%" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jana-hagras&show_icons=true&theme=dark&title_color=ff00ff&icon_color=0ff&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jana-hagras&layout=compact&theme=dark&title_color=ff00ff&icon_color=0ff&text_color=ffffff" width="48%" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/jana-hagras">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jana-hagras/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+## 🌐 Connect With Me
 
 <p align="center">
-  <br>
-  ⭐ <b>“Build. Learn. Improve. Repeat.”</b>
+<a href="https://github.com/jana-hagras">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jana-hagras/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+⭐ <b>“Build. Learn. Improve. Repeat.”</b>
 </p>
