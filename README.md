@@ -1,95 +1,44 @@
-<!-- ==================== 3D CYBER HEADER ==================== -->
-
+<!-- ==================== 3D CYBER BANNER WITH NAME ==================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=250&section=header&text=Jana%20Hagras&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Jana%20Hagras&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- ==================== ANIMATED TYPING HEADER ==================== -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Flutter+Developer;Building+Real+World+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=32&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Enthusiast;Web+Developer;Mobile+Developer;Data+Analyst;Flutter+Developer;Building+Real+World+Applications"/>
 </p>
 
 ---
 
 # 👩‍💻 Jana Hagras
 
-💻 **Full-Stack Enthusiast | Web Developer | Mobile Developer | Data Analyst**
-🚀 Building **mobile apps, web systems, and data-driven solutions** with modern technologies.
+💻 **Full-Stack Enthusiast | Web Developer | Mobile Developer | Data Analyst**  
+🚀 Building **web apps, mobile apps, and data-driven solutions** with modern technologies.
 
 ---
 
 # 🧠 Programming Languages & Frameworks
 
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=for-the-badge\&logo=dart\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge\&logo=php\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge\&logo=react\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge\&logo=flutter\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-8A2BE2?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
----
-
-# ⚡ Skill Levels (Animated Bars)
-
-**Programming**
-Java       ▓▓▓▓▓▓▓▓░░ 80%
-JavaScript ▓▓▓▓▓▓▓▓░░ 80%
-Dart       ▓▓▓▓▓▓▓░░░ 70%
-SQL        ▓▓▓▓▓▓▓▓░░ 80%
-
-**Frameworks**
-Flutter    ▓▓▓▓▓▓▓░░░ 70%
-React      ▓▓▓▓▓▓░░░░ 65%
-Node.js    ▓▓▓▓▓▓░░░░ 65%
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-8A2BE2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-8A2BE2?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8A2BE2?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 # 💻 Portfolio Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Exam Organizer
-
-Manage exams and study schedules efficiently.
-🔗 [Repo Link](https://github.com/jana-hagras/Exam-Organizer)
-
-</td>
-<td width="50%">
-
-### 🍔 Yumscape Food Shop
-
-Online food ordering platform.
-🔗 [Repo Link](https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Data Analysis Project
-
-Data visualization and analysis project.
-🔗 [Repo Link](https://github.com/jana-hagras/Data-analysis-project)
-
-</td>
-<td width="50%">
-
-### ✅ To-Do App
-
-Task management mobile app.
-🔗 [Repo Link](https://github.com/jana-hagras/todo-app)
-
-</td>
-</tr>
-</table>
+<p align="center">
+<!-- Project Cards -->
+{{ include('output/projects/cards.html') }}
+</p>
 
 ---
 
@@ -125,13 +74,6 @@ Task management mobile app.
 
 ---
 
-# 👀 Visitor Counter
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/jana-hagras/count.svg" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -139,7 +81,7 @@ Task management mobile app.
 <img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/janahagras">
+<a href="https://www.linkedin.com/in/jana-hagras/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-8A2BE2?style=for-the-badge&logo=linkedin"/>
 </a>
 
