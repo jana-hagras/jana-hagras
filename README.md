@@ -76,7 +76,7 @@ I craft <i>futuristic interfaces</i>, build <i>scalable apps</i>, and transform 
   <h3 style="color:#00ffff;">📚 Exam Organizer</h3>
   <p style="color:#ccc;">Manage exams and study schedules efficiently with a futuristic UI.</p>
   <a href="https://github.com/jana-hagras/Exam-Organizer">
-    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0080ff" />
+    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff"/>
   </a>
 </td>
 
@@ -86,11 +86,12 @@ I craft <i>futuristic interfaces</i>, build <i>scalable apps</i>, and transform 
   </a>
   <h3 style="color:#00ffff;">🍔 Yumscape Food Shop</h3>
   <p style="color:#ccc;">Fully responsive online food ordering platform.</p>
+  <!-- LIVE DEMO badge fixed -->
   <a href="https://jana-hagras.github.io/Yumscape-Online-Food-Beverage-Shop/index.html">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0080ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=00ffff" />
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-0080ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0080ff" />
   </a>
   <a href="https://github.com/jana-hagras/Yumscape-Online-Food-Beverage-Shop">
-    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0080ff" />
+    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff" />
   </a>
 </td>
 </tr>
@@ -103,7 +104,7 @@ I craft <i>futuristic interfaces</i>, build <i>scalable apps</i>, and transform 
   <h3 style="color:#00ffff;">📊 Data Analysis Project</h3>
   <p style="color:#ccc;">Extracting insights and creating visual narratives from datasets.</p>
   <a href="https://github.com/jana-hagras/Data-analysis-project">
-    <img src="https://img.shields.io/badge/🔗%20Source%20Code-0080ff?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff" />
+    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff" />
   </a>
 </td>
 
@@ -114,7 +115,7 @@ I craft <i>futuristic interfaces</i>, build <i>scalable apps</i>, and transform 
   <h3 style="color:#00ffff;">✅ To-Do Mobile App</h3>
   <p style="color:#ccc;">Task management mobile app for productivity.</p>
   <a href="https://github.com/jana-hagras/todo-app">
-    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0080ff" />
+    <img src="https://img.shields.io/badge/🔗%20Source%20Code-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=00ffff" />
   </a>
 </td>
 </tr>
